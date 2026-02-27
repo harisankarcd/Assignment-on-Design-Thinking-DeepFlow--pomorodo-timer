@@ -1,5 +1,16 @@
 --
 
+
+<img width="834" height="738" alt="{AE307DAA-F562-49A2-B6F6-68C1DC965576}" src="https://github.com/user-attachments/assets/41984e4e-2b0f-4acc-a8fb-5fe83dd3ab74" />
+
+<img width="884" height="787" alt="image" src="https://github.com/user-attachments/assets/b79e5ac8-b26c-4c2a-a9ea-594d091284a9" />
+
+<img width="887" height="829" alt="image" src="https://github.com/user-attachments/assets/837ecbd5-4090-4184-b52e-67a6fb5937c2" />
+
+<img width="887" height="829" alt="image" src="https://github.com/user-attachments/assets/6eab4edc-11af-4f03-888f-90740ab819c9" />
+
+<img width="823" height="824" alt="image" src="https://github.com/user-attachments/assets/d081cd65-3a89-4416-9fc3-fede4d48be50" />
+
 ## 📡 API Documentation
 
 ### Authentication
